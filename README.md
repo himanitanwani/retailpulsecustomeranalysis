@@ -37,4 +37,4 @@ Customer Lifetime Value (CLV) Dashboard built using Power BI.
 - Git & GitHub
 
 ## Author
-Your Name
+Himani Tanwani
